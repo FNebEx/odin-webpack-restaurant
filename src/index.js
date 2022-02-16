@@ -1,1 +1,3 @@
-console.log('???');
+import init from "./init";
+
+init();
